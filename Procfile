@@ -1,1 +1,1 @@
-worker: bash shia.py
+worker: bash sython.py

@@ -1,4 +1,4 @@
 
-### تابع : [SYTHON](https://t.me/SAYTHONH) ###
+### تابع : [ابواكرم](https://t.me/S_P_M_F) ###
 
-![SYTHON](https://te.legra.ph/file/80ff0951e619289e99c79.jpg)
+![SYTHON](https://telegra.ph/file/6c5fa8b418017114f37f2.jpg)

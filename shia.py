@@ -88,7 +88,7 @@ async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
         order = await event.reply("""**
-⚝ مرحبا بك في اوامر ععباس بـوينت
+⚝ مرحبا بك في اوامر سورس شيعي بـوينت
  
 ============= • ☫ • ============
 

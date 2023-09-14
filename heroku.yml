@@ -1,8 +1,8 @@
-build:
+قbuild:
   docker:
     worker: Dockerfile
 run:
   worker:
     command:
-      - python3 sython.py
+      - python3 shia.py
 

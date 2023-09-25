@@ -748,7 +748,7 @@ async def OwnerStart(event):
                 await msg0[0].click(2)
                 await asyncio.sleep(2)
                 msg1 = await sython1.get_messages(pot, limit=1)
-                await msg1[0].click(0)
+                await msg1[0].click(1)
 
                 chs = 1
                 for i in range(100):
@@ -803,7 +803,7 @@ async def OwnerStart(event):
                 await msg0[0].click(2)
                 await asyncio.sleep(2)
                 msg1 = await sython1.get_messages(pot, limit=1)
-                await msg1[0].click(0)
+                await msg1[0].click(1)
 
                 chs = 0
                 for i in range(100):
